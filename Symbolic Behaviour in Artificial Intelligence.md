@@ -4,22 +4,36 @@
 # Symbolic Behaviour in Artificial Intelligence
 Santoro et al. argue that symbol use is evidenced by a set of behaviors, including agreeing on symbol meaning by their users, and that therefore fluent symbol use can only emerge in environments that require coordination around symbol meaning.
 #neurosymbolic #deepmind
+
 # Summary
 ## Symbolic Behavior
-**Receptive** The ability to incorporate new symbols.
-**Constructive** The ability to construct symbols on a given substrate.
-**Embedded** Symbols are interconnected in a symbolic system.
-**Malleable** The ability to modify the meaning of symbols. 
-**Meaningful** A user's interaction with a symbol should
+### Receptive
+The ability to incorporate new symbols.
+
+### Constructive
+The ability to construct symbols on a given substrate.
+
+### Embedded
+Symbols are interconnected in a symbolic system.
+
+### Malleable
+The ability to modify the meaning of symbols. 
+
+### Meaningful
+A user's interaction with a symbol should
     1. communicate their meaning,
     2. and _the reasoning process_ that produced their meaning.
-**Graded** Each of the preceding criteria exist on a spectrum.
+
+### Graded
+Each of the preceding criteria exist on a spectrum.
+
 # Connections
 Because [[AI is Search]] 
     1. **throughput is the most important metric**, 
     2. compression enables greater throughput, 
     3. **symbols are compression**.
     4. [[Intelligence is Compression]]  
+
 # Key References
 * Deep learning for symbolic mathematics
 * Deep learning: A critical appraisal
